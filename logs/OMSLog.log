@@ -1,0 +1,114 @@
+13:07:59.938 [main] INFO  OMSTest.OMSTest - Verifying successful login.
+13:07:59.971 [main] INFO  OMSPages.OMSLoginPage - Logging with username - vt@testvox.com  and password - vt@testvox.com
+13:23:01.375 [main] INFO  OMSTest.OMSTest - Verifying successful login.
+13:23:01.449 [main] INFO  OMSPages.OMSLoginPage - Logging with username - vt@testvox.com  and password - vt@testvox.com
+13:23:01.737 [main] INFO  OMSPages.OMSFindOrdersPage - Entering to Manage Orders Tab
+13:23:02.475 [main] INFO  OMSPages.OMSFindOrdersPage - By default to Find Orders Tab
+13:23:03.216 [main] INFO  OMSPages.OMSFindOrdersPage - Searching the Order
+13:23:03.970 [main] INFO  OMSPages.OMSFindOrdersPage - Generating the Excel
+13:23:04.563 [main] INFO  OMSPages.OMSFindOrdersPage - Editing the Order
+13:23:07.561 [main] INFO  OMSPages.OMSFindOrdersPage - Navigating to Sales Orders Tab
+13:23:07.849 [main] INFO  OMSPages.OMSSalesOrdersPage - Entering to Sales Orders Tab
+13:23:08.059 [main] INFO  OMSPages.OMSSalesOrdersPage - Finding the sales orders
+13:24:08.635 [main] INFO  OMSTest.OMSTest - Verifying successful login.
+13:24:08.661 [main] INFO  OMSPages.OMSLoginPage - Logging with username - vt@testvox.com  and password - vt@testvox.com
+13:24:08.938 [main] INFO  OMSPages.OMSFindOrdersPage - Entering to Manage Orders Tab
+13:24:09.713 [main] INFO  OMSPages.OMSFindOrdersPage - By default to Find Orders Tab
+13:24:10.486 [main] INFO  OMSPages.OMSFindOrdersPage - Searching the Order
+13:24:11.208 [main] INFO  OMSPages.OMSFindOrdersPage - Generating the Excel
+13:24:11.798 [main] INFO  OMSPages.OMSFindOrdersPage - Editing the Order
+13:24:15.194 [main] INFO  OMSPages.OMSFindOrdersPage - Navigating to Sales Orders Tab
+13:24:15.453 [main] INFO  OMSPages.OMSSalesOrdersPage - Entering to Sales Orders Tab
+13:24:15.647 [main] INFO  OMSPages.OMSSalesOrdersPage - Finding the sales orders
+13:27:37.536 [main] INFO  OMSTest.OMSTest - Verifying successful login.
+13:27:37.564 [main] INFO  OMSPages.OMSLoginPage - Logging with username - vt@testvox.com  and password - vt@testvox.com
+13:27:37.861 [main] INFO  OMSPages.OMSFindOrdersPage - Entering to Manage Orders Tab
+13:27:38.606 [main] INFO  OMSPages.OMSFindOrdersPage - By default to Find Orders Tab
+13:27:39.554 [main] INFO  OMSPages.OMSFindOrdersPage - Searching the Order
+13:27:40.279 [main] INFO  OMSPages.OMSFindOrdersPage - Generating the Excel
+13:27:40.874 [main] INFO  OMSPages.OMSFindOrdersPage - Editing the Order
+13:27:44.313 [main] INFO  OMSPages.OMSFindOrdersPage - Navigating to Sales Orders Tab
+13:27:44.567 [main] INFO  OMSPages.OMSSalesOrdersPage - Entering to Sales Orders Tab
+13:27:44.786 [main] INFO  OMSPages.OMSSalesOrdersPage - Finding the sales orders
+14:59:05.202 [main] INFO  OMSTest.OMSTest - Verifying successful login.
+14:59:05.234 [main] INFO  OMSPages.OMSLoginPage - Logging with username - vt@testvox.com  and password - vt@testvox.com
+14:59:05.462 [main] INFO  OMSPages.OMSFindOrdersPage - Entering to Manage Orders Tab
+14:59:06.243 [main] INFO  OMSPages.OMSFindOrdersPage - By default to Find Orders Tab
+14:59:07.228 [main] INFO  OMSPages.OMSFindOrdersPage - Searching the Order
+14:59:07.968 [main] INFO  OMSPages.OMSFindOrdersPage - Generating the Excel
+14:59:08.561 [main] INFO  OMSPages.OMSFindOrdersPage - Editing the Order
+14:59:12.324 [main] INFO  OMSPages.OMSFindOrdersPage - Navigating to Sales Orders Tab
+14:59:12.579 [main] INFO  OMSPages.OMSSalesOrdersPage - Entering to Sales Orders Tab
+14:59:12.796 [main] INFO  OMSPages.OMSSalesOrdersPage - Finding the sales orders
+16:54:26.591 [main] INFO  OMSTest.OMSTest - Verifying successful login.
+16:54:26.691 [main] INFO  OMSPages.OMSLoginPage - Logging with username - vt@testvox.com  and password - vt@testvox.com
+16:54:26.943 [main] INFO  OMSPages.OMSFindOrdersPage - Entering to Manage Orders Tab
+16:54:27.701 [main] INFO  OMSPages.OMSFindOrdersPage - By default to Find Orders Tab
+16:54:28.654 [main] INFO  OMSPages.OMSFindOrdersPage - Searching the Order
+16:54:29.487 [main] INFO  OMSPages.OMSFindOrdersPage - Generating the Excel
+16:54:30.082 [main] INFO  OMSPages.OMSFindOrdersPage - Editing the Order
+16:54:34.219 [main] INFO  OMSPages.OMSFindOrdersPage - Navigating to Sales Orders Tab
+16:54:34.490 [main] INFO  OMSPages.OMSSalesOrdersPage - Entering to Sales Orders Tab
+16:54:34.713 [main] INFO  OMSPages.OMSSalesOrdersPage - Finding the sales orders
+12:00:57.441 [main] INFO  OMSTest.OMSTest - Verifying successful login.
+12:00:57.474 [main] INFO  OMSPages.OMSLoginPage - Logging with username - vt@testvox.com  and password - vt@testvox.com
+12:00:57.784 [main] INFO  OMSPages.OMSFindOrdersPage - Entering to Manage Orders Tab
+12:00:58.534 [main] INFO  OMSPages.OMSFindOrdersPage - By default to Find Orders Tab
+12:00:59.496 [main] INFO  OMSPages.OMSFindOrdersPage - Searching the Order
+12:01:00.255 [main] INFO  OMSPages.OMSFindOrdersPage - Generating the Excel
+12:01:00.841 [main] INFO  OMSPages.OMSFindOrdersPage - Editing the Order
+12:01:04.700 [main] INFO  OMSPages.OMSFindOrdersPage - Navigating to Sales Orders Tab
+12:01:04.970 [main] INFO  OMSPages.OMSSalesOrdersPage - Entering to Sales Orders Tab
+12:01:05.193 [main] INFO  OMSPages.OMSSalesOrdersPage - Finding the sales orders
+12:11:26.464 [main] INFO  OMSTest.OMSTest - Verifying successful login.
+12:11:26.488 [main] INFO  OMSPages.OMSLoginPage - Logging with username - vt@testvox.com  and password - vt@testvox.com
+12:11:26.771 [main] INFO  OMSPages.OMSFindOrdersPage - Entering to Manage Orders Tab
+12:11:27.512 [main] INFO  OMSPages.OMSFindOrdersPage - By default to Find Orders Tab
+12:11:28.427 [main] INFO  OMSPages.OMSFindOrdersPage - Searching the Order
+12:11:29.146 [main] INFO  OMSPages.OMSFindOrdersPage - Generating the Excel
+12:11:29.753 [main] INFO  OMSPages.OMSFindOrdersPage - Editing the Order
+12:11:33.505 [main] INFO  OMSPages.OMSFindOrdersPage - Navigating to Sales Orders Tab
+12:11:33.805 [main] INFO  OMSPages.OMSSalesOrdersPage - Entering to Sales Orders Tab
+12:11:34.041 [main] INFO  OMSPages.OMSSalesOrdersPage - Finding the sales orders
+13:24:51.592 [main] INFO  OMSTest.OMSTest - Verifying successful login.
+13:24:51.634 [main] INFO  OMSPages.OMSLoginPage - Logging with username - vt@testvox.com  and password - vt@testvox.com
+13:24:51.878 [main] INFO  OMSPages.OMSFindOrdersPage - Entering to Manage Orders Tab
+13:24:52.639 [main] INFO  OMSPages.OMSFindOrdersPage - By default to Find Orders Tab
+13:24:53.636 [main] INFO  OMSPages.OMSFindOrdersPage - Searching the Order
+13:24:54.393 [main] INFO  OMSPages.OMSFindOrdersPage - Generating the Excel
+13:24:55.061 [main] INFO  OMSPages.OMSFindOrdersPage - Editing the Order
+13:24:59.090 [main] INFO  OMSPages.OMSFindOrdersPage - Navigating to Sales Orders Tab
+13:24:59.386 [main] INFO  OMSPages.OMSSalesOrdersPage - Entering to Sales Orders Tab
+13:24:59.622 [main] INFO  OMSPages.OMSSalesOrdersPage - Finding the sales orders
+14:30:05.203 [main] INFO  OMSTest.OMSTest - Verifying successful login.
+14:30:05.235 [main] INFO  OMSPages.OMSLoginPage - Logging with username - vt@testvox.com  and password - vt@testvox.com
+14:30:05.547 [main] INFO  OMSPages.OMSFindOrdersPage - Entering to Manage Orders Tab
+14:30:06.309 [main] INFO  OMSPages.OMSFindOrdersPage - By default to Find Orders Tab
+14:30:07.224 [main] INFO  OMSPages.OMSFindOrdersPage - Searching the Order
+14:30:07.998 [main] INFO  OMSPages.OMSFindOrdersPage - Generating the Excel
+14:30:08.624 [main] INFO  OMSPages.OMSFindOrdersPage - Editing the Order
+14:30:12.343 [main] INFO  OMSPages.OMSFindOrdersPage - Navigating to Sales Orders Tab
+14:30:12.607 [main] INFO  OMSPages.OMSSalesOrdersPage - Entering to Sales Orders Tab
+14:30:12.834 [main] INFO  OMSPages.OMSSalesOrdersPage - Finding the sales orders
+15:24:44.479 [main] INFO  OMSTest.OMSTest - Verifying successful login.
+15:24:44.499 [main] INFO  OMSPages.OMSLoginPage - Logging with username - vt@testvox.com  and password - vt@testvox.com
+15:24:44.710 [main] INFO  OMSPages.OMSFindOrdersPage - Entering to Manage Orders Tab
+15:24:45.460 [main] INFO  OMSPages.OMSFindOrdersPage - By default to Find Orders Tab
+15:24:46.327 [main] INFO  OMSPages.OMSFindOrdersPage - Searching the Order
+15:24:47.075 [main] INFO  OMSPages.OMSFindOrdersPage - Generating the Excel
+15:24:47.674 [main] INFO  OMSPages.OMSFindOrdersPage - Editing the Order
+15:24:50.993 [main] INFO  OMSPages.OMSFindOrdersPage - Checking the Order Status action
+15:24:52.684 [main] INFO  OMSPages.OMSFindOrdersPage - Navigating to Sales Orders Tab
+15:24:52.937 [main] INFO  OMSPages.OMSSalesOrdersPage - Entering to Sales Orders Tab
+15:24:53.106 [main] INFO  OMSPages.OMSSalesOrdersPage - Finding the sales orders
+15:30:52.964 [main] INFO  OMSTest.OMSTest - Verifying successful login.
+15:30:52.991 [main] INFO  OMSPages.OMSLoginPage - Logging with username - vt@testvox.com  and password - vt@testvox.com
+15:30:53.283 [main] INFO  OMSPages.OMSFindOrdersPage - Entering to Manage Orders Tab
+15:30:54.039 [main] INFO  OMSPages.OMSFindOrdersPage - By default to Find Orders Tab
+15:30:55.011 [main] INFO  OMSPages.OMSFindOrdersPage - Searching the Order
+15:30:55.745 [main] INFO  OMSPages.OMSFindOrdersPage - Generating the Excel
+15:30:56.339 [main] INFO  OMSPages.OMSFindOrdersPage - Editing the Order
+15:30:59.845 [main] INFO  OMSPages.OMSFindOrdersPage - Checking the Order Status action
+15:31:02.538 [main] INFO  OMSPages.OMSFindOrdersPage - Navigating to Sales Orders Tab
+15:31:02.793 [main] INFO  OMSPages.OMSSalesOrdersPage - Entering to Sales Orders Tab
+15:31:03.002 [main] INFO  OMSPages.OMSSalesOrdersPage - Finding the sales orders

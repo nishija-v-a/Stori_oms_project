@@ -1,0 +1,30 @@
+<environment>
+	<parameter>
+
+		<key>Application Name</key>
+
+		<value>STORI-OMS</value>
+
+	</parameter>
+	<parameter>
+
+		<key>URL:</key>
+
+		<value>https://staging.oms.bytetale.com/</value>
+
+	</parameter>
+
+	<parameter>
+
+		<key>Browser:</key>
+		<value>Chrome</value>
+
+	</parameter>
+	<parameter>
+
+		<key>Browser version:</key>
+
+		<value>102.0.5005.63</value>
+
+	</parameter>
+</environment>
