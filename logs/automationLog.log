@@ -1,0 +1,75 @@
+01:57:17.352 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+01:57:20.773 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+01:57:20.811 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+01:57:24.746 [main] INFO  OMS_Test.OMS_STORI_Test - New Customer registered successfully
+01:57:24.821 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to collect order & shipping details form
+01:57:27.123 [main] INFO  OMS_Test.OMS_STORI_Test - Order and shipping details successfully added
+01:57:27.225 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to LINE ITEM form
+01:57:38.439 [main] INFO  OMS_Test.OMS_STORI_Test - line item successfully added to item list
+01:57:38.581 [main] INFO  OMS_Test.OMS_STORI_Test - SL NAME PRICE UNIT UOM QTY SUBTOTAL DISCOUNT TAX TOTAL
+1 Greek Yogurt Apple Guava (Goat Milk) 340.00 210.00 Gram 150 10710000.00 0.00 50.00 10710050.00
+2 Courtyard Farms: Goat Milk Kefir-Classic 390.00 400.00 Ml 250 39000000.00 0.00 60.00 39000060.00
+01:57:39.359 [main] INFO  OMS_Test.OMS_STORI_Test - line item edit option is displayed
+01:57:41.528 [main] INFO  OMS_Test.OMS_STORI_Test - line item details updated successfully
+01:57:42.347 [main] INFO  OMS_Test.OMS_STORI_Test - line item removed from item list successfully
+01:57:43.526 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to PAYMENT DETAILS form
+01:57:44.007 [main] INFO  OMS_Test.OMS_STORI_Test -  payment method selected by cheque
+01:57:44.007 [main] ERROR OMS_Test.OMS_STORI_Test - There are no options to enter future payment details
+01:57:44.204 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER SUMMARY form
+01:57:44.827 [main] INFO  OMS_Test.OMS_STORI_Test - Order creation date:  Apr 7, 2022, 5:00:00 AM
+01:57:44.906 [main] INFO  OMS_Test.OMS_STORI_Test - Order created successfully
+01:57:44.907 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER STATUS page
+01:57:45.847 [main] INFO  OMS_Test.OMS_STORI_Test - Order number:Your Order Reference is #11678
+01:57:46.072 [main] INFO  OMS_Test.OMS_STORI_Test - create new order button displayed and successfully navigated to order creation page
+01:57:59.896 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+01:58:00.191 [main] INFO  OMS_Test.OMS_STORI_Test - Searched order successfully by name
+01:58:00.191 [main] INFO  OMS_Test.OMS_STORI_Test - created order displayed on order list
+01:58:02.200 [main] INFO  OMS_Test.OMS_STORI_Test - Searched existing customer by name successfully
+01:58:02.844 [main] INFO  OMS_Test.OMS_STORI_Test - Address Details
+657567
+nishijaaaa@gmail.com
+Home land city
+hape town
+delhi
+India
+Iceland
+01:58:14.415 [main] INFO  OMS_Test.OMS_STORI_Test - user logged out successfully from OMS and restored back to login page when clicks on logout button
+06:10:44.858 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+06:10:48.149 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+06:10:48.199 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+06:12:13.088 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+06:12:16.719 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+06:12:16.760 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+06:12:21.834 [main] INFO  OMS_Test.OMS_STORI_Test - New Customer registered successfully
+06:12:21.932 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to collect order & shipping details form
+06:12:24.601 [main] INFO  OMS_Test.OMS_STORI_Test - Order and shipping details successfully added
+06:12:24.669 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to LINE ITEM form
+06:12:35.050 [main] INFO  OMS_Test.OMS_STORI_Test - line item successfully added to item list
+06:12:35.167 [main] INFO  OMS_Test.OMS_STORI_Test - SL NAME PRICE UNIT UOM QTY SUBTOTAL DISCOUNT TAX TOTAL
+1 Greek Yogurt Apple Guava (Goat Milk) 340.00 210.00 Gram 150 10710000.00 0.00 50.00 10710050.00
+2 Courtyard Farms: Goat Milk Kefir-Classic 390.00 400.00 Ml 250 39000000.00 0.00 60.00 39000060.00
+06:12:35.922 [main] INFO  OMS_Test.OMS_STORI_Test - line item edit option is displayed
+06:12:37.905 [main] INFO  OMS_Test.OMS_STORI_Test - line item details updated successfully
+06:12:38.707 [main] INFO  OMS_Test.OMS_STORI_Test - line item removed from item list successfully
+06:12:39.663 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to PAYMENT DETAILS form
+06:12:40.087 [main] INFO  OMS_Test.OMS_STORI_Test -  payment method selected by cheque
+06:12:40.087 [main] ERROR OMS_Test.OMS_STORI_Test - There are no options to enter future payment details
+06:12:40.320 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER SUMMARY form
+06:12:40.920 [main] INFO  OMS_Test.OMS_STORI_Test - Order creation date:  Apr 7, 2022, 5:00:00 AM
+06:12:40.997 [main] INFO  OMS_Test.OMS_STORI_Test - Order created successfully
+06:12:40.997 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER STATUS page
+06:12:41.883 [main] INFO  OMS_Test.OMS_STORI_Test - Order number:Your Order Reference is #11681
+06:12:42.105 [main] INFO  OMS_Test.OMS_STORI_Test - create new order button displayed and successfully navigated to order creation page
+06:12:56.387 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+06:12:56.676 [main] INFO  OMS_Test.OMS_STORI_Test - Searched order successfully by name
+06:12:56.677 [main] INFO  OMS_Test.OMS_STORI_Test - created order displayed on order list
+06:12:58.461 [main] INFO  OMS_Test.OMS_STORI_Test - Searched existing customer by name successfully
+06:12:59.127 [main] INFO  OMS_Test.OMS_STORI_Test - Address Details
+657567
+nishijaaaa@gmail.com
+Home land city
+hape town
+delhi
+India
+Iceland
+06:13:11.032 [main] INFO  OMS_Test.OMS_STORI_Test - user logged out successfully from OMS and restored back to login page when clicks on logout button

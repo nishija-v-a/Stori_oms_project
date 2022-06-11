@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-10T06:12:13 GMT-07:00" name="Default suite" finished-at="2022-06-10T06:13:11 GMT-07:00" duration-ms="58273">
+    <groups>
+    </groups>
+    <test started-at="2022-06-10T06:12:13 GMT-07:00" name="Default test" finished-at="2022-06-10T06:13:11 GMT-07:00" duration-ms="58273">
+      <class name="OMS_Test.OMS_STORI_Test">
+        <test-method is-config="true" signature="suiteSetup()[pri:0, instance:OMS_Test.OMS_STORI_Test@6cea706c]" started-at="2022-06-10T06:12:02 GMT-07:00" name="suiteSetup" finished-at="2022-06-10T06:12:13 GMT-07:00" duration-ms="10842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteSetup -->
+        <test-method signature="loginfunction(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:OMS_Test.OMS_STORI_Test@6cea706c]" started-at="2022-06-10T06:12:13 GMT-07:00" name="loginfunction" data-provider="loginCredentials" finished-at="2022-06-10T06:12:13 GMT-07:00" duration-ms="493" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vt@testvox.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[  ]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Please fill out the field]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginfunction -->
+        <test-method signature="loginfunction(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:OMS_Test.OMS_STORI_Test@6cea706c]" started-at="2022-06-10T06:12:13 GMT-07:00" name="loginfunction" data-provider="loginCredentials" finished-at="2022-06-10T06:12:14 GMT-07:00" duration-ms="527" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vt@testvox.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Please fill out the field]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginfunction -->
+        <test-method signature="loginfunction(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:OMS_Test.OMS_STORI_Test@6cea706c]" started-at="2022-06-10T06:12:14 GMT-07:00" name="loginfunction" data-provider="loginCredentials" finished-at="2022-06-10T06:12:14 GMT-07:00" duration-ms="494" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[  ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[  ]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Please fill out the field]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginfunction -->
+        <test-method signature="loginfunction(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:OMS_Test.OMS_STORI_Test@6cea706c]" started-at="2022-06-10T06:12:14 GMT-07:00" name="loginfunction" data-provider="loginCredentials" finished-at="2022-06-10T06:12:15 GMT-07:00" duration-ms="442" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vt@testvox.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[*Incorrect Credentials! Try again]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginfunction -->
+        <test-method signature="loginfunction(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:OMS_Test.OMS_STORI_Test@6cea706c]" started-at="2022-06-10T06:12:15 GMT-07:00" name="loginfunction" data-provider="loginCredentials" finished-at="2022-06-10T06:12:15 GMT-07:00" duration-ms="469" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vt@testvox.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[*Incorrect Credentials! Try again]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginfunction -->
+        <test-method signature="loginfunction(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:OMS_Test.OMS_STORI_Test@6cea706c]" started-at="2022-06-10T06:12:15 GMT-07:00" name="loginfunction" data-provider="loginCredentials" finished-at="2022-06-10T06:12:16 GMT-07:00" duration-ms="480" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[def]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[*Incorrect Credentials! Try again]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginfunction -->
+        <test-method signature="loginfunction(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:OMS_Test.OMS_STORI_Test@6cea706c]" started-at="2022-06-10T06:12:16 GMT-07:00" name="loginfunction" data-provider="loginCredentials" finished-at="2022-06-10T06:12:16 GMT-07:00" duration-ms="475" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vt@testvox.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vt@testvox.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginfunction -->
+        <test-method signature="loginTest()[pri:1, instance:OMS_Test.OMS_STORI_Test@6cea706c]" started-at="2022-06-10T06:12:16 GMT-07:00" name="loginTest" finished-at="2022-06-10T06:12:16 GMT-07:00" duration-ms="209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="LogoutTest()[pri:2, instance:OMS_Test.OMS_STORI_Test@6cea706c]" started-at="2022-06-10T06:12:16 GMT-07:00" name="LogoutTest" finished-at="2022-06-10T06:12:17 GMT-07:00" duration-ms="1056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutTest -->
+        <test-method signature="Createorder_Test()[pri:3, instance:OMS_Test.OMS_STORI_Test@6cea706c]" started-at="2022-06-10T06:12:17 GMT-07:00" name="Createorder_Test" finished-at="2022-06-10T06:13:11 GMT-07:00" duration-ms="53062" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Createorder_Test -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:OMS_Test.OMS_STORI_Test@6cea706c]" started-at="2022-06-10T06:13:11 GMT-07:00" name="exit" finished-at="2022-06-10T06:13:11 GMT-07:00" duration-ms="323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- OMS_Test.OMS_STORI_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
